@@ -7,4 +7,4 @@ Includes techniques of feature selection, mutual information, Principal Componen
 * - housing price dataset
 * - handwritten digits
 * - olivetti faces
-* Multiple Projects Notebook 2 - includes different ML techniques. Scroll to dimensionality reduction using
+* Multiple Projects Notebook 2 - includes different ML techniques. Scroll to dimensionality reduction using PIMA Indians dataset
