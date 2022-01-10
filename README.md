@@ -1,5 +1,5 @@
 # DimensionalityReduction Projects
-Includes techniques of feature selection, mutual information, Principal Components Analysis, Singular Value Decomposition, Linear Discriminant Analysis, non-linear methods including Manifold Learning, Spectral Embedding, TSNE, ISOMAP, LLE and HLE
+Includes techniques of feature selection, mutual information, Principal Components Analysis, Singular Value Decomposition, Linear Discriminant Analysis, non-linear methods including Manifold Learning, Spectral Embedding, TSNE, ISOMAP, Locally Linearly Embedding and HLE
 
 # Projects:
 * Example notebook includes multiple datasets and techniques including:
